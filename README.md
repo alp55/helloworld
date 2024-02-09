@@ -26,7 +26,7 @@ This repository follows a simple folder structure where each "Hello, World!" pro
 - `hw.cpp` for C++
 - ...
 
-## License
+## [License](MIT.License)
 
 This repository is licensed under the MIT License. By contributing to this repository, you agree to license your contributions under the terms of this license.
 
